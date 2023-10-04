@@ -213,9 +213,11 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026none",
+					"Behavior": "\u0026kp",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"NON_US_BACKSLASH"
+					]
 				},
 				{
 					"Name": "",
