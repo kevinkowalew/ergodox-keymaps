@@ -216,7 +216,7 @@
 					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"NON_US_BACKSLASH"
+						"BACKSLASH"
 					]
 				},
 				{
