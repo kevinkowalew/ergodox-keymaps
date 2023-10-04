@@ -960,21 +960,27 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026none",
+					"Behavior": "\u0026kp",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"LEFT_CONTROL"
+					]
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026none",
+					"Behavior": "\u0026kp",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"LEFT_ALT"
+					]
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026none",
+					"Behavior": "\u0026kp",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"LEFT_COMMAND"
+					]
 				},
 				{
 					"Name": "",
