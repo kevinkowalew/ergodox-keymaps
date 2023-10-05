@@ -1,5 +1,5 @@
 # Intent  
-- This repo contains a personalized ergodox keymaps file in case I ever need to reflash my configuration to my board.
+- This repo version controls my ergodox keymaps file.
 
 # Build Tool
 - https://config.slicemk.com/ergodox/
