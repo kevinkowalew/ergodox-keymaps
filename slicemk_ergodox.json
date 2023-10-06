@@ -482,14 +482,6 @@
 					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"RIGHT_CONTROL"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
 						"LEFT_BRACKET"
 					]
 				},
@@ -500,6 +492,12 @@
 					"Args": [
 						"RIGHT_BRACKET"
 					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
 				},
 				{
 					"Name": "",
