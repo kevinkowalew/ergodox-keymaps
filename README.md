@@ -1,5 +1,5 @@
 # Intent  
-- Version controled ergodox keymaps files.
+- Version controlled personal ergodox keymaps file
 
 # Build Tool
 - https://config.slicemk.com/ergodox/
