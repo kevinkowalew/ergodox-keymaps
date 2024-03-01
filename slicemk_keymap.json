@@ -68,9 +68,11 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "&none",
+					"Behavior": "&out",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"OUT_TOG"
+					]
 				},
 				{
 					"Name": "",
