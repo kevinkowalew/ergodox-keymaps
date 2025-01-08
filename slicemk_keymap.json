@@ -1,13 +1,15 @@
 {
+	"Modified": "2025-01-08T17:06:00.210439135Z",
 	"Keyboard": "ergodox",
-	"Board": "raytac_mdbt50q_rx_green",
-	"Shield": "slicemk_ergodox_dongle",
+	"Board": "slicemk_ergodox_202207_green_left",
+	"Shield": "slicemk_ergodox_leftcentral",
 	"Kconfig": {},
 	"Advanced": {
 		"Logging": "",
 		"KRO": "",
 		"MouseMove": "900",
-		"MouseScroll": ""
+		"MouseScroll": "",
+		"BTParams": ""
 	},
 	"Layers": [
 		{
@@ -62,9 +64,11 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "&none",
+					"Behavior": "&bt",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"BT_CLR_ALL"
+					]
 				},
 				{
 					"Name": "",
